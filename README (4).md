@@ -25,7 +25,7 @@ This web project currently includes:
 
 ## 📸 Project Screenshots
 
-> Make sure you upload your screenshots into a folder named **screenshots** in your GitHub repository.
+
 
 ### 🏠 Home Page  
 ![Home Page](screenshots/web_look1.jpg)
@@ -95,7 +95,7 @@ EVO-Sports-Management/
 
 ## 🌐 Live Demo (GitHub Pages)
 
-Once hosted on GitHub Pages, your deployment link will look like:
+
 
 ```
 https://monterovincent.github.io/EVO-Sports-Management/
